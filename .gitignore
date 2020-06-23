@@ -1,4 +1,5 @@
 secrets.ini
+config.ini
 secret_key
 slow_queries.log
 flasklog
